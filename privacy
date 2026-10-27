@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Dual Cam</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            font-size: 28px;
+            color: #111;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            color: #222;
+            margin-top: 30px;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 8px;
+        }
+        p, li {
+            font-size: 16px;
+            color: #555;
+        }
+        ul {
+            margin-bottom: 20px;
+            padding-left: 20px;
+        }
+        .update-date {
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 30px;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #777;
+            text-align: center;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Dual Cam</h1>
+        <p class="update-date">Last updated: October 27, 2026</p>
+
+        <p>Thank you for choosing <strong>Dual Cam</strong> ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how your information is handled when you use our iOS application.</p>
+
+        <h2>1. Information We Collect</h2>
+        <p>We believe in privacy-first design. Dual Cam is built to process your media locally on your device:</p>
+        <ul>
+            <li><strong>Camera and Microphone Access:</strong> Dual Cam requires access to your device's cameras and microphone strictly to enable simultaneous recording, photo capturing, and multi-orientation video creation for social media.</li>
+            <li><strong>Photos and Storage Access:</strong> The app requests access to your photo library solely to save the dual-camera photos and videos you explicitly choose to export or save.</li>
+            <li><strong>Personal Data:</strong> We do <em>not</em> collect, store, or transmit any personal identification information, user accounts, or cloud analytics back to our servers.</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        <p>Since all photo and video capturing happens locally on your iPhone:</p>
+        <ul>
+            <li>Your media stays on your device unless you manually share it to social media platforms or other apps installed on your phone.</li>
+            <li>We do not have access to your recordings, photos, or the content you create.</li>
+        </ul>
+
+        <h2>3. Third-Party Services and Social Media</h2>
+        <p>Dual Cam allows you to capture content optimized for social media networks. If you choose to share your exported videos or photos directly to third-party platforms (such as Instagram, TikTok, YouTube, etc.), those platforms operate under their own independent privacy policies. We encourage you to review them.</p>
+
+        <h2>4. Data Security</h2>
+        <p>Because your captured videos and photos remain locally on your iOS device protected by Apple's robust sandboxing and security architecture, your data remains fully under your control.</p>
+
+        <h2>5. Changes to This Privacy Policy</h2>
+        <p>We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.</p>
+
+        <h2>6. Contact Us</h2>
+        <p>If you have any questions or suggestions about this Privacy Policy, please feel free to contact us at:</p>
+        <p><strong>Email:</strong> support@segredesbrasil.com</p>
+
+        <div class="footer">
+            <p>&copy; 2026 Dual Cam. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
